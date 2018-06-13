@@ -1,8 +1,8 @@
-package thiengo.com.br.torneioscontinentais.dados
+package thiengo.com.br.torneioscontinentais.data
 
 import thiengo.com.br.torneioscontinentais.R
-import thiengo.com.br.torneioscontinentais.dominio.Jogo
-import thiengo.com.br.torneioscontinentais.dominio.Time
+import thiengo.com.br.torneioscontinentais.domain.Jogo
+import thiengo.com.br.torneioscontinentais.domain.Time
 
 
 class BancoDados {

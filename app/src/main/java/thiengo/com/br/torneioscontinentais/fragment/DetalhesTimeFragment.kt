@@ -8,8 +8,8 @@ import android.view.View
 import android.view.ViewGroup
 import kotlinx.android.synthetic.main.activity_detalhes_time.*
 import thiengo.com.br.torneioscontinentais.R
-import thiengo.com.br.torneioscontinentais.atividade.MainActivity
-import thiengo.com.br.torneioscontinentais.dominio.Time
+import thiengo.com.br.torneioscontinentais.activity.MainActivity
+import thiengo.com.br.torneioscontinentais.domain.Time
 
 
 class DetalhesTimeFragment : Fragment(), View.OnClickListener {

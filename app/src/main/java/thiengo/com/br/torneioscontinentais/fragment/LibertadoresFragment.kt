@@ -1,8 +1,8 @@
 package thiengo.com.br.torneioscontinentais.fragment
 
 import kotlinx.android.synthetic.main.lista_jogos.*
-import thiengo.com.br.torneioscontinentais.adaptador.JogosAdapter
-import thiengo.com.br.torneioscontinentais.dados.BancoDados
+import thiengo.com.br.torneioscontinentais.adapter.JogosAdapter
+import thiengo.com.br.torneioscontinentais.data.BancoDados
 
 
 class LibertadoresFragment : FragmentAbstrato() {
