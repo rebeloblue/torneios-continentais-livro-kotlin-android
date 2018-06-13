@@ -27,13 +27,6 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-
-        <!--
-             activity
-            android:name=".atividade.DetalhesTimeActivity"
-            android:label="@string/title_activity_detalhes_time"
-            android:theme="@style/AppTheme.NoActionBar" /
-        -->
     </application>
 
 </manifest>

@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/viniciusthiengo/Desktop/Applications/TorneiosContinentais/app/src/main/AndroidManifest.xml:2:1-31:12
-INJECTED from /Users/viniciusthiengo/Desktop/Applications/TorneiosContinentais/app/src/main/AndroidManifest.xml:2:1-31:12
-INJECTED from /Users/viniciusthiengo/Desktop/Applications/TorneiosContinentais/app/src/main/AndroidManifest.xml:2:1-31:12
-INJECTED from /Users/viniciusthiengo/Desktop/Applications/TorneiosContinentais/app/src/main/AndroidManifest.xml:2:1-31:12
+ADDED from /Users/viniciusthiengo/Desktop/Applications/TorneiosContinentais/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/viniciusthiengo/Desktop/Applications/TorneiosContinentais/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/viniciusthiengo/Desktop/Applications/TorneiosContinentais/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/viniciusthiengo/Desktop/Applications/TorneiosContinentais/app/src/main/AndroidManifest.xml:2:1-26:12
 MERGED from [com.android.support:design:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/e53cdac5dd2da8cc8063634078bb79d7/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/df24b5a7cb018071f626fb1d8a4dd824/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-v4:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/b5258221f54b26418a6766101a059b7a/AndroidManifest.xml:17:1-22:12
@@ -21,25 +21,25 @@ MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/viniciusthiengo/
 MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/761235456be0dd0b46221a741060ea4c/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/5c93123e3c241227c48758ad332d7ecc/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/538a991e2630ec37b536fff810d1cbb5/AndroidManifest.xml:17:1-22:12
-INJECTED from /Users/viniciusthiengo/Desktop/Applications/TorneiosContinentais/app/src/main/AndroidManifest.xml:2:1-31:12
-INJECTED from /Users/viniciusthiengo/Desktop/Applications/TorneiosContinentais/app/src/main/AndroidManifest.xml:2:1-31:12
-INJECTED from /Users/viniciusthiengo/Desktop/Applications/TorneiosContinentais/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/viniciusthiengo/Desktop/Applications/TorneiosContinentais/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/viniciusthiengo/Desktop/Applications/TorneiosContinentais/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/viniciusthiengo/Desktop/Applications/TorneiosContinentais/app/src/main/AndroidManifest.xml:2:1-26:12
 	package
 		ADDED from /Users/viniciusthiengo/Desktop/Applications/TorneiosContinentais/app/src/main/AndroidManifest.xml:3:5-50
 		INJECTED from /Users/viniciusthiengo/Desktop/Applications/TorneiosContinentais/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/viniciusthiengo/Desktop/Applications/TorneiosContinentais/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/viniciusthiengo/Desktop/Applications/TorneiosContinentais/app/src/main/AndroidManifest.xml
-		ADDED from /Users/viniciusthiengo/Desktop/Applications/TorneiosContinentais/app/src/main/AndroidManifest.xml:2:1-31:12
+		ADDED from /Users/viniciusthiengo/Desktop/Applications/TorneiosContinentais/app/src/main/AndroidManifest.xml:2:1-26:12
 		INJECTED from /Users/viniciusthiengo/Desktop/Applications/TorneiosContinentais/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /Users/viniciusthiengo/Desktop/Applications/TorneiosContinentais/app/src/main/AndroidManifest.xml
-		ADDED from /Users/viniciusthiengo/Desktop/Applications/TorneiosContinentais/app/src/main/AndroidManifest.xml:2:1-31:12
+		ADDED from /Users/viniciusthiengo/Desktop/Applications/TorneiosContinentais/app/src/main/AndroidManifest.xml:2:1-26:12
 		INJECTED from /Users/viniciusthiengo/Desktop/Applications/TorneiosContinentais/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/viniciusthiengo/Desktop/Applications/TorneiosContinentais/app/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /Users/viniciusthiengo/Desktop/Applications/TorneiosContinentais/app/src/main/AndroidManifest.xml:5:5-29:19
+ADDED from /Users/viniciusthiengo/Desktop/Applications/TorneiosContinentais/app/src/main/AndroidManifest.xml:5:5-24:19
 	android:supportsRtl
 		ADDED from /Users/viniciusthiengo/Desktop/Applications/TorneiosContinentais/app/src/main/AndroidManifest.xml:11:9-35
 	android:label
